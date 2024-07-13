@@ -32,8 +32,8 @@ To use the Comment Toxicity Prediction App, follow these steps:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/Comment-Toxicity-Prediction-Model.git
-   cd Comment-Toxicity-Prediction-Model
+   [git clone https://github.com/your-username/Comment-Toxicity-Prediction-Model.git](https://github.com/sanjeevk11/Comment-Toxicity-Prediction-App.git)
+   cd Comment-Toxicity-Prediction-App
    ```
 
 2. **Install Dependencies:**
