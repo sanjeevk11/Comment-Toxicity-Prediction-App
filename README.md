@@ -62,5 +62,5 @@ To use the Comment Toxicity Prediction App, follow these steps:
 ### Bad Comment
 .
 .
-![bad comment](Screenshot 2024-07-13 111711.png)
+![bad comment](https://github.com/user-attachments/assets/de71f7f4-f887-4170-88cc-ca8b235fd4c4)
 
