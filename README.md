@@ -5,7 +5,6 @@ Deployed App Link : https://sanjeevk11-comment-toxicity-prediction-app-app-z20kh
 Demo Video Link : https://drive.google.com/file/d/1_fnVdqGFYLQM8hU91Yoz521-hN2xTji4/view?usp=sharing
 
 
-
 # Comment Toxicity Prediction App
 
 ## Overview
@@ -51,7 +50,6 @@ To use the Comment Toxicity Prediction App, follow these steps:
    Open your web browser and navigate to `http://localhost:8501` to interact with the Comment-Toxicity-Prediction-Model.
 
 5. Enter a comment in the input field, and the app will provide the predicted probabilities for each toxicity category.
-
 
 ## Sample output:
 
