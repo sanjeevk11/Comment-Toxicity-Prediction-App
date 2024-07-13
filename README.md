@@ -51,3 +51,18 @@ To use the Comment Toxicity Prediction App, follow these steps:
    Open your web browser and navigate to `http://localhost:8501` to interact with the Comment-Toxicity-Prediction-Model.
 
 5. Enter a comment in the input field, and the app will provide the predicted probabilities for each toxicity category.
+
+
+## Sample output:
+
+### Good Comment
+.
+.
+![good comment](Screenshot 2024-07-13 111608.png)
+
+
+### Bad Comment
+.
+.
+![bad comment](Screenshot 2024-07-13 111711.png)
+
